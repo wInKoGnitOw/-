@@ -4,7 +4,7 @@
 <img src="https://www.gifcen.com/wp-content/uploads/2024/02/rickroll-gif-6.gif" />
 
 - Вадим
-<img src="https://media1.tenor.com/m/kK6j8ZWFqgQAAAAC/welt-yang-welt.gif" width="100" height="111" />
+<img src="https://media1.tenor.com/m/kK6j8ZWFqgQAAAAC/welt-yang-welt.gif" width="670" height="670" />
 
 
 - Максим
