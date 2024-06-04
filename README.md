@@ -5,4 +5,4 @@
 - Вадим
 - <img src=  /> 
 - Максим
-- <img src= "https://youtu.be/KTfyGVI9Yxc?si=ea31N5DUpn7Hs2hQ"/> 
+- <img src="https://youtu.be/KTfyGVI9Yxc?si=ea31N5DUpn7Hs2hQ" /> 
